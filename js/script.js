@@ -1,0 +1,1 @@
+var script = angular.module('MyOne',[]);
